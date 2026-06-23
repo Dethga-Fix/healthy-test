@@ -7,11 +7,6 @@
     "test": "jest --coverage",
     "lint": "eslint . --fix"
   },
-  "jest": {
-    "testMatch": [
-      "**/src/**/__tests__/**/*.test.js"
-    ]
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Dethga-Fix/healthy-test.git"
